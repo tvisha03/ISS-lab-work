@@ -7,3 +7,9 @@ Implementation of Playfair Cipher
 <br>
 Lab 3:
 Implementation of Hill Cipher
+<br>
+Lab 4:
+Implementation of Vigenere Cipher
+<br>
+Lab 5:
+Implementation of Rail Fence cipher
