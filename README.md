@@ -17,3 +17,5 @@ Implementation of Rail Fence cipher
 Lab 6:
 Implementation of DES
 <br>
+Lab 7:
+Implementation of AES
