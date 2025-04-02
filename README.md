@@ -19,3 +19,6 @@ Implementation of DES
 <br>
 Lab 7:
 Implementation of AES
+<br> 
+Lab 8:
+Implementation of RSA
