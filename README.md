@@ -13,3 +13,7 @@ Implementation of Vigenere Cipher
 <br>
 Lab 5:
 Implementation of Rail Fence cipher
+<br>
+Lab 6:
+Implementation of DES
+<br>
